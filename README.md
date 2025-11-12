@@ -11,7 +11,7 @@
 ## 🚀 Quick snapshot
 - 🎓 BSc (Hons) Computer Science & Technology — Uva Wellassa University (GPA: **3.86/4.00**).  
 - 💼 Trainee Web Developer — **CSI Dev Team** (July 2025 – Present). 
-- 🔭 Research: *RL-based Traffic Light Control* (SUMO, TensorFlow) — improving traffic flow.
+- 🔭 Research: * Optimizing Traffic FlowinSriLankausingReinforcementLearning-BasedTrafficLightControlApproach*
 
 ---
 
@@ -61,24 +61,48 @@
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
 
 
-## ✨ Featured Projects
-> *Short highlights — link each title to repo/website when you add them.*
+## ✨ Production-Level Projects
 
-### UvaXplore — Project & Research Repository
-**Tech:** React, Spring Boot, Flask, PostgreSQL, Tailwind, ML semantic search  
-A unified platform to store, search and summarize undergraduate projects; includes digital signing. :contentReference[oaicite:4]{index=4}
+### 🌐 [UvaXplore – A Project & Research Repository System](https://uvaxplore.live)  
+**Tech:** React.js, Spring Boot, Flask, PostgreSQL, Tailwind CSS, pyHanko, HashiCorp Vault, GitHub  
+A unified web platform to organize and access undergraduate projects and research at Uva Wellassa University, featuring ML-driven semantic search, automatic summarization, and secure digital signature functionality.
 
-### SLMS — Smart Library Management System
-**Tech:** React, PHP, MySQL  
-Online reservations, resource management, staff workflow and donations module. :contentReference[oaicite:5]{index=5}
+---
 
-### Saravana Flora — E-commerce
-**Tech:** React, Node, Express, MySQL, Twilio  
-Full-stack e-commerce with order management + Twilio notifications. :contentReference[oaicite:6]{index=6}
+### 💐 [Saravana Flora – E-commerce Platform](https://saravanaflora.lk)  
+**Tech:** React.js, Node.js, Express.js, MySQL, Twilio  
+A full-stack e-commerce solution for an online flower business, featuring automated SMS notifications via Twilio, real-time order management, and a user-friendly shopping interface.
 
-### Detroits ERP — Enterprise Resource Planning
-**Tech:** React, Node, .NET, ZKTeco SDK, Redis  
-ERP modules: attendance (fingerprint via ZKTeco), payroll, inventory & finance. :contentReference[oaicite:7]{index=7}
+---
+
+### 🏢 [Sabari Holdings – Import & Export Portal](https://sabariholdings.lk)  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+Website for a Sri Lankan import–export company with product categorization for import/export listings and an admin dashboard for seamless product and category management.
+
+---
+
+### 💳 [COOP Digital – Cooperative Banking App](https://coopdigital.lk)  
+**Tech:** React Native, NestJS, MySQL  
+Mobile app for the cooperative banking sector enabling users to access branch-level transactions, manage accounts, and track loan and transaction histories across branches.
+
+---
+
+### 💼 [SoftDetroits – Software Solutions Company](https://softdetroits.com)  
+**Tech:** React.js, Node.js, Express.js, MySQL, .NET, Redis  
+At SoftDetroits, we empower businesses with scalable web, mobile, and automation systems. From startups to enterprises, we build impactful digital products focused on quality, performance, and long-term client success.
+
+---
+
+### 🚢 [Mas Impex – Import & Export Platform](https://masimpex.lk)  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+Modern import–export platform for a Sri Lankan trading company, featuring category-based product filtering and an admin dashboard for efficient product management.
+
+---
+
+### 🌍 [G Capital – Global Export Company (Dubai)](https://gcapitalglobal.com)  
+**Tech:** React.js, Node.js, Express.js, MySQL  
+Trusted export company simplifying global trade by connecting businesses worldwide to premium products, ensuring quality, reliability, and seamless export operations.
+
 
 *(Add repo links next to each project for maximum impact.)*
 
