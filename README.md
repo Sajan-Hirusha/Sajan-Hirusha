@@ -1,7 +1,7 @@
 # Hi, I'm Sajan 👋
 <img align="right" alt="waving" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C2FF&size=28&width=680&lines=Passionate+Software+Developer;Full-stack+(Next.js,+React,+NestJS);ML+&+RL+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C2FF&size=28&width=680&lines=Passionate+Software+Developer;Full-stack+(Next.js,+React,+NestJS))](https://git.io/typing-svg)
 
 **Sajan Gunasekara** • Software Developer • Colombo, Sri Lanka  
 📧 sajanhirusha1@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/sajan-gunasekara/) • 🌐 [sajanhirusha.me](https://www.sajanhirusha.me/) • 🐙 [github.com/Sajan-Hirusha](https://github.com/Sajan-Hirusha)
