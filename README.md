@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C2FF&size=28&width=680&lines=Passionate+Software+Developer;Full-stack+(Next.js,+React,+NestJS);ML+&+RL+enthusiast)](https://git.io/typing-svg)
 
-**Sajan Gunasekara** • Trainee Web Developer • Colombo, Sri Lanka  
+**Sajan Gunasekara** • Software Developer • Colombo, Sri Lanka  
 📧 sajanhirusha1@gmail.com • 🔗 [LinkedIn](https://www.linkedin.com/in/sajan-gunasekara/) • 🌐 [sajanhirusha.me](https://www.sajanhirusha.me/) • 🐙 [github.com/Sajan-Hirusha](https://github.com/Sajan-Hirusha)
 
 ---
@@ -16,9 +16,14 @@
 ---
 
 ## 🚀 Quick Snapshot
-- 🎓 BSc (Hons) Computer Science & Technology — Uva Wellassa University (GPA: **3.86/4.00**).  
-- 💼 Trainee Web Developer — **CSI Dev Team** (July 2025 – Present).  
-- 🔭 Research: *Optimizing Traffic Flow in Sri Lanka using Reinforcement Learning-Based Traffic Light Control Approach.*
+- 🎓 **BSc (Hons) Computer Science & Technology** — Uva Wellassa University (GPA: **3.86/4.00**).  
+- 💼 **Trainee Web Developer** — *CSI Dev Team Uva Wellassa University* (July 2025 – Present)  
+  - Develop responsive and scalable full-stack web applications with efficient RESTful APIs and MySQL databases.  
+  - Collaborate with cross-functional teams to optimize performance and maintain high-quality code standards.  
+  - Conduct testing, debugging, and optimization to ensure reliability across devices.  
+  - Implement modern design principles to create scalable, user-friendly digital solutions.  
+- 🔭 **Research:** *Optimizing Traffic Flow in Sri Lanka using Reinforcement Learning-Based Traffic Light Control Approach.*
+
 
 ---
 
@@ -110,35 +115,6 @@ Modern import–export platform for a Sri Lankan trading company, featuring cate
 ### 🌍 [G Capital – Global Export Company (Dubai)](https://gcapitalglobal.com)  
 **Tech:** React.js, Node.js, Express.js, MySQL  
 Trusted export company simplifying global trade by connecting businesses worldwide to premium products, ensuring quality, reliability, and seamless export operations.
-
----
-
-## 📈 GitHub Stats & Activity
-<p align="center">
-  <img alt="Sajan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sajan-Hirusha&show_icons=true&theme=radical" />
-  &nbsp;&nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajan-Hirusha&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajan-Hirusha&theme=radical" />
-  &nbsp;&nbsp;
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Sajan-Hirusha&style=flat-square" />
-</p>
-
----
-
-## 🎯 What I'm Working On
-- Improving the RL traffic lights project — bridging simulation and real-world data.  
-- Building production-ready features for COOP Digital (cooperative banking mobile app).
-
----
-
-## 🧩 Fun & Misc
-- Dean’s List (2022–2024) • Participant — National ICT Awards (NBQSA) with UvaXplore.  
-- Active in IEEE Student Branch; LaTeX contributor for conference proceedings.
-
----
 
 ## 📫 Contact
 - 📧 **Email:** [sajanhirusha1@gmail.com](mailto:sajanhirusha1@gmail.com)  
