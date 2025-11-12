@@ -8,10 +8,17 @@
 
 ---
 
-## 🚀 Quick snapshot
+<!-- 🌱 Real GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajan-Hirusha&theme=react-dark&hide_border=true&area=true" alt="Sajan's GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🚀 Quick Snapshot
 - 🎓 BSc (Hons) Computer Science & Technology — Uva Wellassa University (GPA: **3.86/4.00**).  
-- 💼 Trainee Web Developer — **CSI Dev Team** (July 2025 – Present). 
-- 🔭 Research: * Optimizing Traffic FlowinSriLankausingReinforcementLearning-BasedTrafficLightControlApproach*
+- 💼 Trainee Web Developer — **CSI Dev Team** (July 2025 – Present).  
+- 🔭 Research: *Optimizing Traffic Flow in Sri Lanka using Reinforcement Learning-Based Traffic Light Control Approach.*
 
 ---
 
@@ -60,8 +67,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
 
+---
 
-## ✨ Production-Level Projects
+## 🚀 Production-Level Projects
 
 ### 🌐 [UvaXplore – A Project & Research Repository System](https://uvaxplore.live)  
 **Tech:** React.js, Spring Boot, Flask, PostgreSQL, Tailwind CSS, pyHanko, HashiCorp Vault, GitHub  
@@ -103,21 +111,16 @@ Modern import–export platform for a Sri Lankan trading company, featuring cate
 **Tech:** React.js, Node.js, Express.js, MySQL  
 Trusted export company simplifying global trade by connecting businesses worldwide to premium products, ensuring quality, reliability, and seamless export operations.
 
-
-*(Add repo links next to each project for maximum impact.)*
-
 ---
 
 ## 📈 GitHub Stats & Activity
-<!-- Replace `Sajan-Hirusha` with your GitHub username if different -->
-<p align="left">
+<p align="center">
   <img alt="Sajan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sajan-Hirusha&show_icons=true&theme=radical" />
   &nbsp;&nbsp;
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajan-Hirusha&layout=compact&theme=radical" />
 </p>
 
-<!-- Optional streak & views -->
-<p align="left">
+<p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajan-Hirusha&theme=radical" />
   &nbsp;&nbsp;
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Sajan-Hirusha&style=flat-square" />
@@ -125,36 +128,20 @@ Trusted export company simplifying global trade by connecting businesses worldwi
 
 ---
 
-## 🎯 What I'm working on
-- Improving the RL traffic lights project — bridging simulation & real world data. :contentReference[oaicite:8]{index=8}  
-- Building production-ready features for COOP Digital (cooperative banking mobile app). :contentReference[oaicite:9]{index=9}
+## 🎯 What I'm Working On
+- Improving the RL traffic lights project — bridging simulation and real-world data.  
+- Building production-ready features for COOP Digital (cooperative banking mobile app).
 
 ---
 
 ## 🧩 Fun & Misc
-- Dean’s List (2022–2024) • Participant — National ICT Awards (NBQSA) with UvaXplore. :contentReference[oaicite:10]{index=10}  
-- Active in IEEE Student Branch; LaTeX contributor for conference proceedings. :contentReference[oaicite:11]{index=11}
+- Dean’s List (2022–2024) • Participant — National ICT Awards (NBQSA) with UvaXplore.  
+- Active in IEEE Student Branch; LaTeX contributor for conference proceedings.
 
 ---
 
 ## 📫 Contact
-- Email: sajanhirusha1@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sajan-gunasekara/  
-- Website: https://www.sajanhirusha.me/  
-- Resume: *(Add repo link or PDF link)*
-
----
-
-### Want this README animated even more?
-- Swap the static gifs for short demo GIFs of UvaXplore/SLMS (record 6–12s screen capture) and host them in the repo then embed: `![demo](./assets/uvaxplore-demo.gif)`.
-- Add a tiny SVG animation header (inline SVG) — I can generate an inline animated SVG banner for you if you'd like a custom one.
-- Add GitHub Actions to auto-update the `readme-typing-svg` phrases, or generate a project carousel automatically.
-
----
-
-*If you want, I’ll:*
-1. generate a custom **animated SVG banner** (headline + gradient + small motion)  
-2. create demo GIFs instructions (how to record & optimize)  
-3. produce repo-specific badges and sample `projects` card components.
-
-Tell me which of the three above you want first, and I’ll generate it instantly (no waiting). 🎨✨
+- 📧 **Email:** [sajanhirusha1@gmail.com](mailto:sajanhirusha1@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/sajan-gunasekara](https://www.linkedin.com/in/sajan-gunasekara/)  
+- 🌐 **Website:** [sajanhirusha.me](https://www.sajanhirusha.me/)  
+- 📄 **Resume:** *(Add repo or hosted link here)*
